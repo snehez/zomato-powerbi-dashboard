@@ -28,7 +28,7 @@ An end-to-end Power BI dashboard built using Zomato data sourced from Kaggle. Th
 
 ![Zomato Dashboard View 1](https://github.com/snehez/zomato-powerbi-dashboard/commit/4815)  
 ![Zomato Dashboard View 2](https://github.com/snehez/zomato-powerbi-dashboard/commit/0d8f9a26d59f4a20560f6c964657da4a52df36b1)  
-![Zomato Dashboard View 3]()
+![Zomato Dashboard View 3](https://github.com/snehez/zomato-powerbi-dashboard/commit/3e162471f96519cee5a15859384ffa59a490e699)
 
 
 ## 🧠 Learning Outcomes
